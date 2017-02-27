@@ -3,7 +3,7 @@ namespace BGW\EventBrite;
 
 /**
  * Plugin Name: EventBrite Data
- * Plugin URI: https://boardgamesweek.com
+ * Plugin URI: https://jmichaelward.com
  * Description: Connects to the EventBrite API to retrieve and adapt event data for use by the BGW API.
  * Author: J. Michael Ward
  * Author URI: https://jmichaelward.com
